@@ -1,0 +1,38 @@
+produto: {
+    id: 'id',
+    nome: 'NomeProduto'
+    descricao: 'Descricao'
+    categoria: {
+        categoria1 {
+            id: '1'
+            nome: 'categoria'
+        }
+        categoria2 {
+            id: '2'
+            nome: 'categoria'
+        }
+    }
+    valor: 'Preco'
+    imagem: 'foto'
+}
+
+funcionario: {
+    nome: '',
+    login: '',
+    senha: '',
+    funcao: ''
+}
+
+usuario: {
+    nome: '',
+    imagem: 'foto',
+    ra: '',
+    login: '',
+    senha: ''
+}
+
+apm : {
+    nome: '',
+    login: '',
+    senha: ''
+}
